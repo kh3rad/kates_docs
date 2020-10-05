@@ -98,7 +98,38 @@ kubectl get pods -l app=kubernetes-bootcamp
 kubectl get pods -o go-template --template '{{range .items}}{{.metadata.name}}{{"\n"}}{{end}}'
 kubectl label pod kubernetes-bootcamp-57978f5f5d-6glv2 kubernetes-bootcamp-57978f5f5d-nxgn7 app=v1 --overwrite
 kubectl exec -ti kubernetes-bootcamp-57978f5f5d-6glv2 kubernetes-bootcamp-57978f5f5d-nxgn7 kubernetes-bootcamp-57978f5f5d-wg7tf -- bash
+#deployment
 kubectl get deployments
+kubectl describe deployments
+kubectl describe deployment nginx-dep #ye revision number ham darim k neshoon mide chand bar in deployment dast khorde
+kubectl get deployment nginx-dep -o yaml
+kubectl get deployment nginx-dep -o wide
+kubectl set image deployments/nginx-dep nginx=nginx:1.8
+kubecrl rollout status deployments/nginx-dep
+kubecrl rollout history deployments/nginx-dep --revision=2 #dar har revision che version bala boode
+kubecrl rollout history deployments/nginx-dep --revision=3
+kubecrl rollout undo deployments/nginx-dep --to-revision=1
+kubectl apply -f nginx-dep.yaml #with edit yaml file and increase version on it, we can upgrade our deployment
+#service
+kubectl expose deployment/nginx-dep --type="NodePort" --port 80
+kubectl get service
+#ingress
+#kubectl apply -f nginx-ingress.yaml
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v0.40.1/deploy/static/provider/cloud/deploy.yaml
+vim web-01.yaml #type:pod
+kubectl create -f web-01.yaml # type:pod episode014
+kubectl expose pod web-01 --type="ClusterIP" --port=80
+kubectl get services
+vim ingress.yaml #type:Service episode14
+kubectl apply -f ingress.yaml
+kubectl get services --all-namespaces
+vim ingress-rules.yaml #kind: Ingress episode14, the host in this file must b resolved(4 example add too /etc/hosts)
+kubectl apply -f ingress-rules.yaml
+kubectl get ingress
+#load balancer
+
+
+
 kubectl get servives
 kubectl get svc
 kubectl scale deployments/kubernetes-bootcamp --replicas=0
