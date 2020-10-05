@@ -75,7 +75,8 @@ kubectl apply -f https://k8s.io/examples/application/deployment.yaml
 ```
 kubectl expose deployment/nginx-deployment --type="NodePort" --port 80
 ```
-
+## Performing a Rolling Update
+this is a [google tutorial] (https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/) and in this tutorial we have a picture and commands for updating a pod.
 
 
 
