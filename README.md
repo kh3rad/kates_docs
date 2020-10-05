@@ -85,6 +85,7 @@ this is a [google tutorial] (https://kubernetes.io/docs/tutorials/kubernetes-bas
 kubectl cluster-info
 kubectl config view
 kubectl get pods -n kube-system
+kubectl get pods --all-namespaces
 kubectl create deployment kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1
 kubectl get deployments
 kubectl get pods -o go-template --template '{{range .items}}{{.metadata.name}}{{"\n"}}{{end}}'
