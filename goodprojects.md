@@ -31,3 +31,5 @@ Currents
 
 https://workspace.google.com/pricing.html?ga_lang=en
 https://www.zoho.com/
+https://alternativeto.net/software/g-suite/?license=opensource
+https://alternativeto.net/
