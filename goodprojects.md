@@ -28,3 +28,6 @@ Keep
 Sites
 Forms
 Currents
+
+https://workspace.google.com/pricing.html?ga_lang=en
+https://www.zoho.com/
