@@ -1,5 +1,6 @@
 * aerogear
 * mattermost
+* rocketchat
 * jitsi
 * ceph
 * minio
@@ -10,7 +11,18 @@
 * mail
 * nextcloud + online collabra
 * wordpress
-directus  elk  grafana  hubot  jitsi  jupyterhub_data  mariadb  minio  mongodb  nextcloud  prometheus  psql-data  rocketchat  synapse jiralike trello
+* nexus repo
+* docker proxy
+* database docker(maria+mongo+pgsql+oracle)
+* elk
+* grafana
+* taiga (trello like)
+*jiralike
+* directus
+* hubot
+* jupyterhub_data
+* prometheus
+* synapse 
 
 Downloading data from the command line¶
 
