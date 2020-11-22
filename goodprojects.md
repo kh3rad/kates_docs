@@ -4,6 +4,7 @@
 * jitsi
 * ceph
 * minio
+* lets encrypt service
 * sentry
 * DNS as Service(cloud dns)
 * cdn
@@ -17,7 +18,8 @@
 * elk
 * grafana
 * taiga (trello like)
-*jiralike
+* bug tracking(redmine)
+* jiralike
 * directus
 * hubot
 * jupyterhub_data
@@ -49,3 +51,4 @@ https://workspace.google.com/pricing.html?ga_lang=en
 https://www.zoho.com/
 https://alternativeto.net/software/g-suite/?license=opensource
 https://alternativeto.net/
+https://www.arvancloud.com/fa/marketplace/iaas-images?category[0]=all&page=4
