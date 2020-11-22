@@ -5,10 +5,10 @@
 * ceph
 * minio
 * sentry
-* DNS as Service
+* DNS as Service(cloud dns)
 * cdn
 * git
-* mail
+* mail as a service (cloud mail)
 * nextcloud + online collabra
 * wordpress
 * nexus repo
@@ -24,6 +24,9 @@
 * prometheus
 * synapse 
 & WEBINAR SERVICE
+& STREAMING AND LIVE STREAMINHG
+& CLOUD SECURITY
+
 
 Downloading data from the command line¶
 
