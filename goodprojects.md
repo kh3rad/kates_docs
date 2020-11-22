@@ -8,7 +8,7 @@
 * cdn
 * git
 * mail
-* nextcloud
+* nextcloud + online collabra
 * wordpress
 directus  elk  grafana  hubot  jitsi  jupyterhub_data  mariadb  minio  mongodb  nextcloud  prometheus  psql-data  rocketchat  synapse jiralike trello
 
