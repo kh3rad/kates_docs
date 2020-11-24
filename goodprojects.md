@@ -72,5 +72,7 @@ https://www.arvancloud.com/fa/marketplace/iaas-images?category[0]=all&page=4
 https://blog.datasciencedojo.com/open-source-ecosystem/
 https://about.gitlab.com
 https://awesomeopensource.com/projects/self-hosted
+https://github.com/awesome-selfhosted/awesome-selfhosted#sip
+https://github.com/awesome-selfhosted/awesome-selfhosted#sip
 ## 16 Open Source Home Automation Platforms To Use In 2020
 https://ubidots.com/blog/open-source-home-automation/
