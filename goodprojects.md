@@ -74,5 +74,6 @@ https://about.gitlab.com
 https://awesomeopensource.com/projects/self-hosted
 https://github.com/awesome-selfhosted/awesome-selfhosted#sip
 https://github.com/awesome-selfhosted/awesome-selfhosted#sip
+https://github.com/n1trux/awesome-sysadmin#dns
 ## 16 Open Source Home Automation Platforms To Use In 2020
 https://ubidots.com/blog/open-source-home-automation/
