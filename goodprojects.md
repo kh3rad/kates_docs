@@ -78,5 +78,6 @@ https://github.com/n1trux/awesome-sysadmin#dns
 https://awesome.tilde.fun/t/sysadmin
 https://awesome.tilde.fun/d/48-sysadmin-blogs
 https://www.rosehosting.com/blog/
+https://www.getapp.com/p/sem/project-management-software?t=Top+Project+Collaboration+Software&camp=adw_search&utm_content=g&utm_source=ps-google&utm_campaign=COM_EMEA_Desktop_BR-Project_Collaboration&utm_medium=cpc&account_campaign_id=1537092131&account_adgroup_id=57400125050&ad_id=310958819967&utm_term=trello+self+hosted&matchtype=b&gclid=CjwKCAiA-_L9BRBQEiwA-bm5ftOf6Q84iAHetM2HqBeAaDCoBChLcspNpgDPl_uJZVfkffZBiyPwOBoCDu8QAvD_BwE
 ## 16 Open Source Home Automation Platforms To Use In 2020
 https://ubidots.com/blog/open-source-home-automation/
