@@ -76,5 +76,7 @@ https://github.com/awesome-selfhosted/awesome-selfhosted#sip
 https://github.com/awesome-selfhosted/awesome-selfhosted#sip
 https://github.com/n1trux/awesome-sysadmin#dns
 https://awesome.tilde.fun/t/sysadmin
+https://awesome.tilde.fun/d/48-sysadmin-blogs
+https://www.rosehosting.com/blog/
 ## 16 Open Source Home Automation Platforms To Use In 2020
 https://ubidots.com/blog/open-source-home-automation/
