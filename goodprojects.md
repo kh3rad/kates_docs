@@ -1,3 +1,5 @@
+# Building an Ecosystem with Open Source
+* gluu
 * aerogear
 * mattermost
 * rocketchat
@@ -13,6 +15,7 @@
 * nextcloud + online collabra
 * wordpress
 * nexus repo
+* Jupyterhub
 * docker proxy
 * database docker(maria+mongo+pgsql+oracle)
 * elk
@@ -63,3 +66,4 @@ https://www.zoho.com/
 https://alternativeto.net/software/g-suite/?license=opensource
 https://alternativeto.net/
 https://www.arvancloud.com/fa/marketplace/iaas-images?category[0]=all&page=4
+https://blog.datasciencedojo.com/open-source-ecosystem/
